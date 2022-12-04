@@ -15,19 +15,21 @@
   
 @media screen and (max-width: 1240px) {
   .cover__link {
-    max-width: 1240px;
+    width: 100%;
     min-height: 640px;
   }
 }
   
 @media screen and (max-width: 768px) {
   .cover__link {
+    width: 100%;
     min-height: 480px;
   }
 }
  
 @media screen and (max-width: 320px) {
   .cover__link {
+    width: 100%;
     min-height: 200px;
   }
 }
