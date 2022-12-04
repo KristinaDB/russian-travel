@@ -1,0 +1,9 @@
+.lead {
+  max-width: 984px;
+  min-height: 60vh;
+  margin-top: 56px;
+  margin-bottom: 0;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 0;
+}
