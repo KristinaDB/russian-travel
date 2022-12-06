@@ -8,23 +8,8 @@
   width:100%;
   margin: 0 auto;
   padding: 0;
-  font-family: 'Inter', Arial, sans-serif;
+  font-family: 'Inter', 'Arial', sans-serif;
   background: #2A2C2F;
   text-rendering: optimizeLegibility; 
-}
-
-
-@media screen and (max-width: 1024px) {
-  .page {
-    margin: 0;
-    width:100%;
-  }
-}
-
-@media screen and (max-width: 1024px) {
-  .page {
-    margin: 0;
-    width:100%;
-  }
 }
 
