@@ -1,18 +1,8 @@
 .place__image{
+  display: block;
   margin: 0;
-  max-width: 480px;
-}
-
-@media screen and (max-width: 1024px) {
-  .place__image {
-    width: 42.96875vw;
-  }
-}
-
-@media screen and (max-width: 768px) {
-  .place__image {
-    width: 44.2708333vw;
-  }
+  width: 100%;
+  /*max-width: 460px;*/
 }
 
 @media screen and (max-width: 630px) {
